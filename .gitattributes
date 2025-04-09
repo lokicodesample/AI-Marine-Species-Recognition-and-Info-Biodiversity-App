@@ -1,0 +1,3 @@
+*tflife filter=lfs diff=lfs merge=lfs -text
+*.tflite filter=lfs diff=lfs merge=lfs -text
+assets/model/sea_creatures.tflite filter=lfs diff=lfs merge=lfs -text
